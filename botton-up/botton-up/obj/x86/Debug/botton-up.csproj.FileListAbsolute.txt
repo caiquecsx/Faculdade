@@ -1,0 +1,12 @@
+c:\users\joelf\documents\visual studio 2010\Projects\botton-up\botton-up\bin\Debug\botton-up.exe
+c:\users\joelf\documents\visual studio 2010\Projects\botton-up\botton-up\bin\Debug\botton-up.pdb
+c:\users\joelf\documents\visual studio 2010\Projects\botton-up\botton-up\obj\x86\Debug\botton_up.Form1.resources
+c:\users\joelf\documents\visual studio 2010\Projects\botton-up\botton-up\obj\x86\Debug\botton_up.Properties.Resources.resources
+c:\users\joelf\documents\visual studio 2010\Projects\botton-up\botton-up\obj\x86\Debug\botton-up.csproj.GenerateResource.Cache
+c:\users\joelf\documents\visual studio 2010\Projects\botton-up\botton-up\obj\x86\Debug\botton-up.exe
+c:\users\joelf\documents\visual studio 2010\Projects\botton-up\botton-up\obj\x86\Debug\botton-up.pdb
+C:\Users\joelf\Documents\Visual Studio 2010\Projects\botton-up\botton-up\obj\x86\Debug\botton-up.csprojResolveAssemblyReference.cache
+C:\Users\joelf\Documents\Visual Studio 2010\Projects\botton-up\botton-up\bin\Debug\botton-up.exe.manifest
+C:\Users\joelf\Documents\Visual Studio 2010\Projects\botton-up\botton-up\bin\Debug\botton-up.application
+C:\Users\joelf\Documents\Visual Studio 2010\Projects\botton-up\botton-up\obj\x86\Debug\botton-up.exe.manifest
+C:\Users\joelf\Documents\Visual Studio 2010\Projects\botton-up\botton-up\obj\x86\Debug\botton-up.application
